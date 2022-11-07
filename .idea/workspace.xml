@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8ab87a0-c676-45fd-b519-914d460da7a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3-MethodTemplate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P3-MethodTemplate.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/algorithm/Algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/algorithm/DivideConqTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/algorithm/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/algorithm/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/algorithm/algorithm.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/app/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/app/App.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/app/app.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/template/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/template/ProblemInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/template/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/template/SolutionInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/template/Template.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/ull/patrones/template/template.plantuml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src.plantuml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GtYT0913z7PGmR5fSfYjEEXUsE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/celes/Desktop/ULL-2022-2023/DAP/P3/P3-MethodTemplate"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main-TemplateMethod" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="P3-MethodTemplate" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8ab87a0-c676-45fd-b519-914d460da7a0" name="Changes" comment="" />
+      <created>1667209354574</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667209354574</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
